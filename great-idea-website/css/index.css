@@ -64,3 +64,28 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+/*styling header*/
+nav a{
+	text-decoration:none;
+	margin-left:6%;
+	display:inline-block;
+	color:darkgray;
+}
+
+.logo{
+	widht:20%;
+	display:inline-block;
+	padding:1%;
+}
+.container{
+	width:900px;
+	margin:-60px auto 100px auto;
+}
+
+.maintitle{
+	margin-bottom:3px;
+	display:inline-block;
+	padding:8em;
+	margin-left: 7em;
+}
+
